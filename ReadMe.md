@@ -13,7 +13,6 @@ For validity assessment, machine learning classification algorithms were used to
 
 ## 文件夹结构
 ``` 
-.
 ├── 1_Protocol
 │   └── README.md
 ├── 2_Materials
