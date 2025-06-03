@@ -1,0 +1,1 @@
+本项目基于中文社会评价词表(The Chinese Social Evaluatige Word List, Li, Chen, & Chuan-Peng, 2023)，对五个社会评价维度中的1,133个中文词汇进行了扩充。本文采用Word2Vec词嵌入方法对词表进行计算扩充，得到共9,721个评价词汇的扩展词表，并对扩展词表的信度与效度进行检验。

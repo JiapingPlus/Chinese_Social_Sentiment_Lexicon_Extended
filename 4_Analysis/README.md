@@ -1,0 +1,1 @@
+Expanded_words_data：经过Word2Vec和中心权重法重新分配词汇情感极性后，得到的扩展词汇表。
